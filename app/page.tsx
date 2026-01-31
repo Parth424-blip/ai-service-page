@@ -111,7 +111,7 @@ export default function UniqueLandingPage() {
             </span>
           </div>
           <form
-            action="https://formspree.io/f/YOUR_ID"
+            action="https://formspree.io/f/maqjzyzy"
             method="POST"
             className="p-8 space-y-6"
           >
